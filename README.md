@@ -65,6 +65,7 @@ $ youtube-upload --title="A.S. Mutter"
                  --description="A.S. Mutter plays Beethoven" \
                  --category=Music \
                  --tags="mutter, beethoven" \
+                 --playlist="my playlist's title" \
                  --client-secrets=my_client_secrets.json \
                  --credentials-file=my_credentials.json \
                  anne_sophie_mutter.flv
